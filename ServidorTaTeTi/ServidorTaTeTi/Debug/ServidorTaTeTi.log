@@ -1,0 +1,14 @@
+﻿Build started 10/7/2017 2:43:51 PM.
+     1>Project "C:\Users\Matias\Desktop\backuptateti\ServidorTaTeTi\ServidorTaTeTi\ServidorTaTeTi.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Visual Studio Community 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main_server_udp.cpp
+         main_server_udp.cpp
+       Link:
+         E:\Visual Studio Community 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Matias\Desktop\backuptateti\ServidorTaTeTi\Debug\ServidorTaTeTi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Matias\Desktop\backuptateti\ServidorTaTeTi\Debug\ServidorTaTeTi.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Matias\Desktop\backuptateti\ServidorTaTeTi\Debug\ServidorTaTeTi.lib" /MACHINE:X86 Debug\main_server_udp.obj
+         Debug\TaTeTi.obj
+         ServidorTaTeTi.vcxproj -> C:\Users\Matias\Desktop\backuptateti\ServidorTaTeTi\Debug\ServidorTaTeTi.exe
+     1>Done Building Project "C:\Users\Matias\Desktop\backuptateti\ServidorTaTeTi\ServidorTaTeTi\ServidorTaTeTi.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.02
